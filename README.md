@@ -4,6 +4,8 @@ A clean full-stack starter running on
 [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and
 Drizzle support.
 
+[六级词汇在线练习](https://clairisl.github.io/cet6-vocabulary/)
+
 ## Prerequisites
 
 - Node.js `>=22.13.0`
